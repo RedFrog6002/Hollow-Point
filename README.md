@@ -8,7 +8,7 @@ Why did I make this? I wish I knew too.
 While this mod is not to be taken seriously, It still aims to make a semi-serious fun ranged weapon mod to capitalize on Hollow Knight's movement system.  
 
 
-**AUTHOR'S NOTE: Due to personal reasons like burnout and motivation, I might not be able to fix all the bugs so PLEASE READ THE ISSUES LIST BELOW BEFORE ASKING QUESTIONS ABOUT IT**
+**AUTHOR'S NOTE: Due to personal reasons like burnout and motivation, I might not be able to fix all the bugs so PLEASE READ THE ISSUES LIST, YOU WILL NOT BE ABLE TO PLAY THE MOD OTHERWISE**
 
 ________________________________________________________________________________________________________________
 
@@ -109,12 +109,15 @@ Up Spell: Call in a slow sweeping air burst barrage that slowly walks forward to
 ________________________________________________________________________________________________________________
 
 ## Known Issues (EXTREMELY IMPORTANT TO READ)
+
+SEVERE ISSUE: 
+- **This mod doesnt work on a new save**, you will spawn without a gun that can properly shoot or deal damage and only makes noise, to fix this you must first create the new save, quit to main menu, and load the save again. This will then make the mod work as intended, where you will spawn with an AK that actually shoots and deals damage, this applies to both Regular and Godmaster new saves. 
+
 MAJOR ISSUES:
 - **Backing up your save is highly recommended**, due to some code changes left over modifications stay on the save file and I dont have the time anymore to fix it in the near future. This is mostly related to the focusing cost so please, please, please backup your saves first before installing it in an existing save so you wont end up needing to modifying your save just to fix it. **If you have the focus bug on your save file with the mod uninstalled, you'll need to manually edit your save file to the default values.** 
 
 FIXX: To fix your file all you have to is use a save editor (search for one, but most quick and convenient would be Bloodorca's online save editor), find the line **focusMP_amount: ##** and make sure its set to 33, so **"focusMP_amount:" 33**, this should fix your focusing upon uninstalling.
 
-- **This mod doesnt work on a new save**, To fix this you must first create the new save, quit to main menu, and load the save again. This will then make the mod work as intended, this applies to both Regular and Godmaster new saves. 
 - **This mod DOES work with Randomizer but be wary of the same issues above**, you first need create a Rando save with Hollow Point DISABLED, quit the game, ENABLE Hollow Point, start the game (with both Rando and Hollow Point enabled) and you can now load the Rando save with Hollow Point completely working. (Otherwise, creating a new Rando save with Hollow Point enabled tends to crash the game)
 
 MINOR ISSUES:
