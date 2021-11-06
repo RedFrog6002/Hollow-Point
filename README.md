@@ -111,7 +111,7 @@ ________________________________________________________________________________
 ## Known Issues (EXTREMELY IMPORTANT TO READ)
 
 SEVERE ISSUE: 
-- **This mod doesnt work on a new save**, you will spawn without a gun that can properly shoot or deal damage and only makes noise, to fix this you must first create the new save, quit to main menu, and load the save again. This will then make the mod work as intended, where you will spawn with an AK that actually shoots and deals damage, this applies to both Regular and Godmaster new saves. 
+- **This mod doesnt work on a new save**, you will spawn without a gun that can't properly shoot or deal damage and only makes noise, to fix this you must first create the new save, quit to main menu, and load the save again. This will then make the mod work as intended, where you will spawn with an AK that actually shoots and deals damage, this applies to both Regular and Godmaster new saves. 
 
 MAJOR ISSUES:
 - **Backing up your save is highly recommended**, due to some code changes left over modifications stay on the save file and I dont have the time anymore to fix it in the near future. This is mostly related to the focusing cost so please, please, please backup your saves first before installing it in an existing save so you wont end up needing to modifying your save just to fix it. **If you have the focus bug on your save file with the mod uninstalled, you'll need to manually edit your save file to the default values.** 
